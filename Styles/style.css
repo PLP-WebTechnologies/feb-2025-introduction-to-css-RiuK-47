@@ -1,0 +1,22 @@
+#google {
+    color: rebeccapurple;
+    text-decoration: none;
+    font-weight: bold;
+}
+.home-footer {
+    color: crimson;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#main-header {
+    background-color: rgb(185, 176, 189);
+    color: rgb(235, 83, 27);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 20px;
+    border-bottom: 2px;    
+}
+.content {
+    line-height: 2;
+    background-color: olive;
+    text-align: center;
+}
